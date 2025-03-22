@@ -10,8 +10,8 @@ I make software that is held together by glue, hopes, and dreams. Oh and also I 
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
-![dino-hh](https://github-readme-stats.vercel.app/api?username=dino-hh&show_icons=true&theme=tokyonight&hide=["issues"])
+![dino-hh](https://github-readme-stats.vercel.app/api?username=dino-sh&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![dino-hh](https://github-readme-stats.vercel.app/api/top-langs?username=dino-hh&show_icons=true&theme=tokyonight&layout=compact)
+![dino-hh](https://github-readme-stats.vercel.app/api/top-langs?username=dino-sh&show_icons=true&theme=tokyonight&layout=compact)
 
 -- END RANDOM STATS NO ONE READS ---
